@@ -7,3 +7,4 @@ Juanita dos
 Seno
 Coseno
 Restar Negativos
+Multiplicar negativos
