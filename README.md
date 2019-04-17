@@ -6,3 +6,4 @@ Pepito dos
 Juanita dos
 Seno
 Coseno
+Restar Negativos
